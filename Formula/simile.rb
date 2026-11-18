@@ -1,8 +1,8 @@
 class Simile < Formula
   desc "Compile and run faithful local models of service APIs"
   homepage "https://os.inttegro.dev/simile"
-  url "https://github.com/inttegro/simile/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "8894a6a9759f8280c8bf4b5404c21053b5968a873d0004426341da1c83c341c4"
+  url "https://github.com/inttegro/simile/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "5ce92641c92b0e17705c71a3075ba8723f4f752fb32da4a04c34bcb6017ecfa2"
   license "MIT"
   head "https://github.com/inttegro/simile.git", branch: "master"
 
